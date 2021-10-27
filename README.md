@@ -1,17 +1,17 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=Welcome+to+❤+WA+Bot+repo;Created+by+Anandh;This+is+a+userbot+privet+and+public+bot;With+more+features)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=Welcome+to+❤+WA+Bot+repo;Created+by+Alfy;This+is+a+userbot+private+and+public+bot;With+more+features)](https://git.io/typing-svg)
 
 
 <div align="center">
-  <img border-radius: 15px src="https://avatars.githubusercontent.com/u/83832372?v=4" width="200" height="200"/>
+  <img border-radius: 15px src="WD_Queen.jpg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="PinkyMwol" src="https://img.shields.io/badge/Monuzz-Mkz-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="PinkyMwol" src="https://img.shields.io/badge/whitedevilzz-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://wa.me/918848120533"><img title="join support" src="https://img.shields.io/badge/join_support-Monuzz-Mkz/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://wa.me/918921661383"><img title="join support" src="https://img.shields.io/badge/join_support-whitedevilzz/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Monuzz-Mkz">Anandh</a> to make it public
+Project created by <a href="https://github.com/whitedevilzz">Alfy</a> to make it public
     <br>
        | © |
         Reserved |
@@ -22,7 +22,7 @@ Project created by <a href="https://github.com/Monuzz-Mkz">Anandh</a> to make it
 
 <h3 align="center">Follow Me in Instagram:</h3>
 <p align="center">
-<a href="https://instagram.com/kl_35_pala_karannn?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://instagram.com/w_hi_te_devilzzz?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 </p>
 
 ```
@@ -48,7 +48,7 @@ the user is responsible.
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Monuzz-Mkz/Pinky) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/whitedevilzz/Pinky) 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@afnanplk/PinkyMwol-QR)
   
@@ -72,7 +72,6 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/CgWt3VG4FMtAhPPJiRAivW" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
+  <a href="https://chat.whatsapp.com/JGAjzNyHo5nJ4Rp499AQj4" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
 </p>
-
 
